@@ -1,7 +1,4 @@
 
-
-
-
 export default function Suggestion(props) {
   return (
     <div className="sugestao">

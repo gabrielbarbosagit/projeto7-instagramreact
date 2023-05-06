@@ -4,32 +4,32 @@ import Post from "./Post";
 const posts = [
   {
     id: 1,
-    imageusuario: "assets/img/gato-telefone.svg",
+    imageusuario: "assets/img/meowed.svg",
     imagePost: "assets/img/gato-telefone.svg",
-    imageFollower: "assets/img/gato-telefone.svg",
+    imageFollower: "assets/img/respondeai.svg",
     usuarioFollower: "respondeai",
-    numberPeople: 700,
-    usuario: "teste",
+    numberPeople: 100,
+    usuario: "meowed",
     numberLike: 0 
   },
   {
     id: 2,
-    imageusuario: "assets/img/gato-telefone.svg",
-    imagePost: "assets/img/gato-telefone.svg",
-    imageFollower: "assets/img/gato-telefone.svg",
-    usuarioFollower: "respondeai",
-    numberPeople: 80,
-    usuario: "teste",
+    imageusuario: "assets/img/barked.svg",
+    imagePost: "assets/img/dog.svg",
+    imageFollower: "assets/img/adorable_animals.svg",
+    usuarioFollower: "adorable_animals",
+    numberPeople: 100,
+    usuario: "adorable_animals",
     numberLike: 0 
   },
   {
     id: 3,
-    imageusuario: "assets/img/gato-telefone.svg",
+    imageusuario: "assets/img/meowed.svg",
     imagePost: "assets/img/gato-telefone.svg",
-    imageFollower: "assets/img/gato-telefone.svg",
-    usuarioFollower: "respondeai",
-    numberPeople: 985,
-    usuario: "teste",
+    imageFollower: "assets/img/adorable_animals.svg",
+    usuarioFollower: "adorable_animals",
+    numberPeople: 100,
+    usuario: "adorable_animals",
     numberLike: 0 
   },
 ];
